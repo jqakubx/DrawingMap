@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawingMap", "DrawingMap.vcxproj", "{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallDrawingMap", "..\InstallDrawingMap\InstallDrawingMap.vdproj", "{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Install|x64 = Install|x64
+		Install|x86 = Install|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Debug|x64.ActiveCfg = Debug|Win32
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Debug|x64.Build.0 = Debug|Win32
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Debug|x86.Build.0 = Debug|Win32
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Install|x64.ActiveCfg = Debug|x64
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Install|x86.ActiveCfg = Debug|Win32
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Install|x86.Build.0 = Debug|Win32
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Release|x64.ActiveCfg = Release|x64
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Release|x64.Build.0 = Release|x64
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Release|x86.ActiveCfg = Release|Win32
+		{1FEFD2FE-54E6-4CBD-9029-37788D7EFFFD}.Release|x86.Build.0 = Release|Win32
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Debug|x64.ActiveCfg = Install
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Debug|x86.ActiveCfg = Debug
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Debug|x86.Build.0 = Debug
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Install|x64.ActiveCfg = Install
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Install|x64.Build.0 = Install
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Install|x86.ActiveCfg = Install
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Install|x86.Build.0 = Install
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Release|x64.ActiveCfg = Release
+		{E6E46D8D-6482-4F5F-9F1F-F410AFFD213F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7811EA2C-0CD3-48E7-BDE0-4F164064CF09}
+	EndGlobalSection
+EndGlobal
